@@ -34,6 +34,6 @@
 
 ## 참조 사진 출처
 
-- pose_01: 출처를 적으세요 (pose_01)
-- pose_02: 출처를 적으세요 (pose_02)
-- pose_03: 출처를 적으세요 (pose_03)
+- pose_01: AI로 생성한 클린 앤 저크 연속 동작 이미지(samples/source_clean_and_jerk.jpg)에서 첫 번째(클린 시작 자세) 동작을 잘라 사용
+- pose_02: AI로 생성한 클린 앤 저크 연속 동작 이미지(samples/source_clean_and_jerk.jpg)에서 두 번째(클린 받기 자세) 동작을 잘라 사용
+- pose_03: AI로 생성한 클린 앤 저크 연속 동작 이미지(samples/source_clean_and_jerk.jpg)에서 세 번째(스플릿 저크) 동작을 잘라 사용
